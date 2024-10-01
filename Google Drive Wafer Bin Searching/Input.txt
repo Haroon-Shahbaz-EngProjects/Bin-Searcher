@@ -1,0 +1,13 @@
+Using Wafer Id?: yes
+Wafer to use: A022520B13
+CartID: H12
+BinValue: 48
+SubBin: A
+BatchID: Po43786y
+Check all Wafers: no
+Wafers to check:
+A022520B09
+A022520B04PL
+A022530A04PL
+SGDFjkldfg454
+end
